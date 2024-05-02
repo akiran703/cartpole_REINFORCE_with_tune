@@ -26,7 +26,9 @@ Steps of REINFORCE
 3) for t = 1 to T:
    1) calculate the policy
    2) update the policy parameters: theta = theta + alpha * (Gradient theta * J(theta))
-      
+
+
+
 
 
 
